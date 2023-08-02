@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background: linear-gradient( rgb(150, 0, 255), rgb(255, 230, 0) );
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+    display: inline-block;
+}
+
+
+p,b{
+    font-size: 20px;
+    color: black;
+    display: inline-block;
+}
+
+
+label{
+    color: black;
+}
+
+#camera{
+    border: 5px solid rgb(white);
+    width: 350px;
+    height: 300px;
+    margin: auto;
+}
